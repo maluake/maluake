@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/maria-luiza-zurlo-b4b96836a/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+<img src="https://img.shields.io/badge/linkedin-f8c8dc?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
