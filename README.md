@@ -1,17 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maluake/maluake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/c7/66/84/c76684743f66c3bad8a53b37fd713242.gif"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# ✦ oi, eu sou a malu
+
+𖹭 estudante de TI 
+𖹭 focada em front-end, design e experiências visuais  
+𖹭 aprendendo JavaScript, banco de dados, Python e cloud computing  
+𖹭 apaixonada por tecnologia com propósito social  
+
+---
+
+## ✦ tecnologias & ferramentas
+
+<div align="center">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+</div>
+
+---
+
+## ✦ estudando atualmente
+
+```txt
+☁️ cloud computing & AWS
+⚡ javascript
+🎨 UI/UX e design visual
+🗄️ banco de dados
+📱 layouts responsivos
+```
+
+## ✦ estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maluakeO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluake&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ✦ conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/maluake">
+<img src="https://img.shields.io/badge/github-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://www.linkedin.com/in/maria-luiza-zurlo-b4b96836a/"/>
+</a>
+
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+
+</div>
 
