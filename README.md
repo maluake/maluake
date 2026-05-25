@@ -50,8 +50,8 @@
 <img src="https://img.shields.io/badge/github-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-<img src="https://www.linkedin.com/in/maria-luiza-zurlo-b4b96836a/"/>
+<a href="https://www.linkedin.com/in/maria-luiza-zurlo-b4b96836a/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/19/68/4f/19684f775ede1f113e964339d2156fb1.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=F8C8DC&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
