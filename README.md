@@ -42,18 +42,6 @@
 📱 layouts responsivos
 ```
 
-## ✦ estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maluakeO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluake&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## ✦ conecte-se comigo
 
 <div align="center">
@@ -62,7 +50,7 @@
 <img src="https://img.shields.io/badge/github-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 <img src="https://www.linkedin.com/in/maria-luiza-zurlo-b4b96836a/"/>
 </a>
 
@@ -73,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+<img src="https://i.pinimg.com/originals/19/68/4f/19684f775ede1f113e964339d2156fb1.gif"/>
 
 </div>
 
