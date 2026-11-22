@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">malu</title>
+  <desc id="d">Um galho delicado com folhas rosadas cresce da esquerda para a direita; a raiz vira trilhas de circuito e pequenos pontos formam uma linha de dados que sobe.</desc>
+  <style>
+    .tinta { stroke: #F8C8DC; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .folha { fill: #3a2a31; stroke: #F8C8DC; stroke-width: 1.5; stroke-linejoin: round; }
+    .nervura { stroke: #F8C8DC; stroke-width: 1.1; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .no { fill: #1f1f1f; stroke: #F8C8DC; stroke-width: 1.5; }
+    .solda { fill: #F8C8DC; }
+    .dados { stroke: #F8C8DC; stroke-width: 1.2; fill: none; stroke-dasharray: 1 7; stroke-linecap: round; opacity: .8; }
+    .cheio { fill: #F8C8DC; }
+    .suave { fill: #F8C8DC; stroke: #F8C8DC; stroke-width: 1; }
+  </style>
+  <rect x="0" y="0" width="1200" height="300" rx="28" fill="#1f1f1f"/>
+  <!-- raiz que vira trilhas de circuito -->
+  <path class="tinta" stroke-width="1.5" d="M120 236 L 102 254 L 74 254"/>
+  <path class="tinta" stroke-width="1.5" d="M120 236 L 120 258 L 106 272"/>
+  <path class="tinta" stroke-width="1.5" d="M120 236 L 136 252 L 136 274"/>
+  <circle class="no" cx="69" cy="254" r="4.5"/>
+  <circle class="no" cx="102.5" cy="275.5" r="4.5"/>
+  <circle class="no" cx="136" cy="279" r="4.5"/>
+  <!-- galho -->
+  <path class="tinta" stroke-width="2.2" d="M120 236 C 300 230, 420 150, 600 150 C 780 150, 900 96, 1080 92"/>
+  <!-- folhas: posição e ângulo calculados sobre a curva do galho -->
+  <g transform="translate(269.0 214.8) rotate(-55.3) scale(0.85)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(323.9 200.7) rotate(26.8) scale(0.9)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(414.2 176.2) rotate(-56.3) scale(1.0)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 L 24 0 L 34 -6 L 44 -6"/><circle class="solda" cx="46" cy="-6" r="2.2"/></g></g>
+  <g transform="translate(507.9 156.9) rotate(33.7) scale(1.0)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(652.3 148.5) rotate(-45.3) scale(1.05)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(749.0 138.2) rotate(33.5) scale(1.0)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 L 24 0 L 34 -6 L 44 -6"/><circle class="solda" cx="46" cy="-6" r="2.2"/></g></g>
+  <g transform="translate(849.0 120.8) rotate(-52.6) scale(0.95)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(940.3 104.8) rotate(33.3) scale(0.85)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <g transform="translate(1017.6 95.4) rotate(-47.0) scale(0.75)"><g><path class="folha" d="M0 0 C 14 -15, 40 -17, 58 0 C 40 17, 14 15, 0 0 Z"/><path class="nervura" d="M2 0 Q 30 -2 56 0"/></g></g>
+  <circle class="folha" cx="1085" cy="91" r="6"/>
+  <!-- linha de dados que sobe -->
+  <path class="dados" d="M250 266 L 380 258 L 510 262 L 640 240 L 770 232 L 900 208 L 1030 196"/>
+  <circle class="no" cx="250" cy="266" r="3.6"/>
+  <circle class="no" cx="380" cy="258" r="3.6"/>
+  <circle class="no" cx="510" cy="262" r="3.6"/>
+  <circle class="no" cx="640" cy="240" r="3.6"/>
+  <circle class="no" cx="770" cy="232" r="3.6"/>
+  <circle class="no" cx="900" cy="208" r="3.6"/>
+  <circle class="no" cx="1030" cy="196" r="3.6"/>
+  <!-- brilhos -->
+  <path class="cheio" d="M200 83 Q 202.34 93.66 213 96 Q 202.34 98.34 200 109 Q 197.66 98.34 187 96 Q 197.66 93.66 200 83 Z"/>
+  <path class="suave" d="M650 52 Q 651.8 60.2 660 62 Q 651.8 63.8 650 72 Q 648.2 63.8 640 62 Q 648.2 60.2 650 52 Z"/>
+  <path class="cheio" d="M1124 159 Q 1125.62 166.38 1133 168 Q 1125.62 169.62 1124 177 Q 1122.38 169.62 1115 168 Q 1122.38 166.38 1124 159 Z"/>
+  <path class="suave" d="M470 86 Q 471.08 90.92 476 92 Q 471.08 93.08 470 98 Q 468.92 93.08 464 92 Q 468.92 90.92 470 86 Z"/>
+</svg>
